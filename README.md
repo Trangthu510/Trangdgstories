@@ -1,5 +1,3 @@
-# Trangdgstory.github.io
-
 👋 Hi, I’m @Trangthu510
 👀 I’m interested in coding
 🌱 I’m currently learning Industrial Engineering
